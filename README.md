@@ -14,7 +14,7 @@
 * 觸碰教授圖像，觸發情節圖
 <img src="images/回覆教授.png" width="500"/>
 * 遊戲結束畫面
-<img src="images/ENDSCREEN.png" width="500"/>
+<img src="images/ENDSCREEN.jpg" width="500"/>
 ## 使用程式
 * PYTHON
 * PYGAME
