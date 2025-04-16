@@ -33,12 +33,12 @@
 
 | 道具圖 | 說明 |
 |--------|------|
-| <img src="images/讀書.png" width="500"/> |------|
-| <img src="images/寫報告.png" width="500"/> |------|
-| <img src="images/食物.png" width="500"/> |------|
-| <img src="images/睡覺.png" width="500"/> |------|
-| <img src="images/喝酒.png" width="500"/> |------|
-| <img src="images/教授.png" width="500"/> |------|
+| <img src="images/讀書.png" width="300"/> |------|
+| <img src="images/寫報告.png" width="300"/> |------|
+| <img src="images/食物.png" width="300"/> |------|
+| <img src="images/睡覺.png" width="300"/> |------|
+| <img src="images/喝酒.png" width="300"/> |------|
+| <img src="images/教授.png" width="300"/> |------|
 
 ### 各項值使用方法說明
 
