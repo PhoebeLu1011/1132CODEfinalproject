@@ -1,9 +1,12 @@
 # 113-2 Programming Language Final Project 
 # Life Explosion Simulator: Final Exam Hell Edition
+
 ## 組員:
 - <a href="https://github.com/PhoebeLu1011"><img src="https://github.com/PhoebeLu1011.png" width="20"/> @PhoebeLu1011</a>
 - <a href="https://github.com/kurakanja"><img src="https://github.com/kurakanja.png" width="20"/> @kurakanja</a>
+
 ## 第一次審查連結 : https://youtu.be/SExgqFcxvvw
+
 ## 動機 
 身為大學生的我們，每學期在期末石，必經歷大量作業、考試與專題的壓力，導致爆肝、熬夜與情緒崩潰等現象頻繁發生，俗稱 「期末地獄」。\
 本專題希望遊戲模擬去呈現學生在期末地獄中掙扎的情境，讓使用者一方面娛樂放鬆，一方面反思自身學習與生活。
@@ -15,6 +18,7 @@
 <img src="images/回覆教授.png" width="500"/>
 * 遊戲結束畫面
 <img src="images/ENDSCREEN.jpg" width="500"/>
+
 ## 使用程式
 * PYTHON
 * PYGAME
