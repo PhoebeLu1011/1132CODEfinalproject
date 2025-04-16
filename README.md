@@ -14,8 +14,10 @@
 ## 遊戲示意圖  
 * 主介面
 <img src="images/主介面.png" width="500"/>
+
 * 觸碰教授圖像，觸發情節圖
 <img src="images/回覆教授.png" width="500"/>
+
 * 遊戲結束畫面
 <img src="images/ENDSCREEN.jpg" width="500"/>
 
