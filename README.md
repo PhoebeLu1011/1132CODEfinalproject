@@ -12,7 +12,8 @@
 * 主介面
 <img src="images/主介面.png" width="500"/>
 * 觸碰教授圖像，觸發情節圖
-<img src="images/回覆教授.png" width="500"/> 
+<img src="images/回覆教授.png" width="500"/>
+
 ## 使用程式
 * PYTHON
 * 作業二-資料視覺化
