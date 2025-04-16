@@ -13,9 +13,11 @@
 <img src="images/主介面.png" width="500"/>
 * 觸碰教授圖像，觸發情節圖
 <img src="images/回覆教授.png" width="500"/>
-
+* 遊戲結束畫面
+<img src="images/ENDSCREEN.png" width="500"/>
 ## 使用程式
 * PYTHON
+* PYGAME
 * 作業二-資料視覺化
   
 ## 遊戲流程
@@ -33,12 +35,12 @@
 
 | 道具圖 | 說明 |
 |--------|------|
-| <img src="images/讀書.png" width="300"/> |------|
-| <img src="images/寫報告.png" width="300"/> |------|
-| <img src="images/食物.png" width="300"/> |------|
-| <img src="images/睡覺.png" width="300"/> |------|
-| <img src="images/喝酒.png" width="300"/> |------|
-| <img src="images/教授.png" width="300"/> |------|
+| <img src="images/讀書.png" width="100"/> | 課業完成度+1、 精力值-1|
+| <img src="images/寫報告.png" width="100"/> |課業完成度+1、精力值-1|
+| <img src="images/食物.png" width="100"/> |健康值+1、精力值+1|
+| <img src="images/睡覺.png" width="100"/> |健康值+1、精力值+2<br>注意:接觸太多次睡覺可能觸發在圖書館睡著事件，導致讀書進度-5|
+| <img src="images/喝酒.png" width="100"/> |健康值-1、精力值+2<br>注意:接觸太多次喝酒可能觸發酒局嘔吐事件，導致健康值-5|
+| <img src="images/教授.png" width="100"/> |稀有!精力值-1<br>注意:接觸教授必觸發回答問題事件，根據回答機率性獲得課業完成度+10到-5(獲得知識或是被委託其他事件導致讀書進度拖延)|
 
 ### 各項值使用方法說明
 
