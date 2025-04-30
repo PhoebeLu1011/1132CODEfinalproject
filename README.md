@@ -6,6 +6,7 @@
 - <a href="https://github.com/kurakanja"><img src="https://github.com/kurakanja.png" width="20"/> @kurakanja</a>
 
 ## 第一次審查連結 : https://youtu.be/SExgqFcxvvw
+## 第二次進度追蹤 : https://youtu.be/0_wMfQdEzZ0
 
 ## 動機 
 身為大學生的我們，每學期在期末時，必經歷大量作業、考試與專題的壓力，導致爆肝、熬夜與情緒崩潰等現象頻繁發生，俗稱 「期末地獄」。\
