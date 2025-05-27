@@ -19,6 +19,14 @@
 
 * 觸碰教授圖像，觸發情節圖
 <img src="images/回覆教授.png" width="500"/>
+* 讀書進度達100，成功逃離期末地獄
+<img src="code/images/ending/ending_study100.png" width="500"/>  
+* 精力值為0，進入頹廢結局
+<img src="code/images/ending/ending_energy0.png" width="500"/>  
+* 健康值為0，進入送醫結局
+<img src="code/images/ending/ending_health0.png" width="500"/>  
+* 撞到車，進入車禍結局
+<img src="code/images/ending/ending_car.png" width="500"/>  
 
 * 遊戲結束畫面
 <img src="images/ENDSCREEN.jpg" width="500"/>
