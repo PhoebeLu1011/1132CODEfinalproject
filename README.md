@@ -38,7 +38,7 @@ pip install pygame
 * 撞到車，進入車禍結局
 <img src="code/images/ending/ending_car.png" width="500"/>  
 
-* 遊戲結束畫面\
+* 遊戲結束畫面
 
 | 成功(逃脫期末地獄) | 失敗 |
 |--------|--------|
