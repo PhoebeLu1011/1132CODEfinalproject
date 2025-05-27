@@ -7,7 +7,13 @@
 
 ## 第一次審查連結 : https://youtu.be/SExgqFcxvvw
 ## 第二次進度追蹤 : https://youtu.be/0_wMfQdEzZ0
-
+## 若程式跑不動  
+請手動新增一個.env檔，裡面寫GEMINI_API_KEY=你的google api key  
+並且在cmd(命令提示字元)輸入  
+pip install flask  
+pip install google-generativeai  
+pip install python-dotenv  
+pip install pygame   
 ## 動機 
 身為大學生的我們，每學期在期末時，必經歷大量作業、考試與專題的壓力，導致爆肝、熬夜與情緒崩潰等現象頻繁發生，俗稱 「期末地獄」。
 ## 目標
