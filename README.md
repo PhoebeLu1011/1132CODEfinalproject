@@ -33,7 +33,9 @@
 <img src="code/images/ending/ending_car.png" width="500"/>  
 
 * 遊戲結束畫面
-<img src="images/ENDSCREEN.jpg" width="500"/>
+| 成功(逃脫期末地獄) | 失敗 |
+|--------|------|
+| 
 
 ## 使用程式
 * PYTHON
