@@ -39,6 +39,7 @@ pip install pygame
 <img src="code/images/ending/ending_car.png" width="500"/>  
 
 * 遊戲結束畫面\
+
 | 成功(逃脫期末地獄) | 失敗 |
 |--------|--------|
 | <img src="images/成功最後畫面.png" width="400"/> | <img src="images/失敗最後畫面.png" width="400"/> |
