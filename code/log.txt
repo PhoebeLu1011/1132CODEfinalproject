@@ -1,0 +1,8 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "C:\Users\lu\Desktop\1132data\code\main.py", line 5, in <module>
+    game.menu()
+  File "C:\Users\lu\Desktop\1132data\code\game.py", line 347, in menu
+    self.screen.fill((255, 255, 255))
+pygame.error: display Surface quit

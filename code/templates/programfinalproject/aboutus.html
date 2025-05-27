@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Setting Menu - Life Explosion</title>
+        <style>
+            body{
+                background-color: #F5F5F5;
+                font-family: 'Rubik Marker Hatch', sans-serif;
+                margin: 0;
+                padding: 20px;
+                height: 100vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+
+            ul{
+                font-size: 16px;
+                list-style-type: none;
+                font-weight: bold;
+                margin-bottom: 10px;
+                text-shadow: 1px 1px 2px #888888;
+                
+            }
+
+            ul li{
+                font-size: 16px;
+                font-weight: bold;
+                margin-bottom: 10px;
+                text-shadow: 1px 1px 2px #888888;
+            }
+            .content {
+                text-align: center;
+            }
+
+            h3{
+                font-size: 20px;
+                font-weight: normal;
+                margin-bottom: 30px;
+                color: #333333;
+                font-weight: bold;
+            }
+            h4{
+                font-size: 15px;
+                font-weight: normal;
+                margin-bottom: 30px;
+                color: #333333;
+                font-weight: bold;
+            }
+            
+            .button {
+                display: block;
+                width: 300px;
+                padding: 15px;
+                font-size: 18px;
+                font-weight: bold;
+                border: none;
+                border-radius: 30px;
+                cursor:pointer;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+                margin: 15px 0;
+                transition: 0.3s;
+            }
+
+            .back-button{
+                background-color: #4E4E4E;
+                color: #FFFFFF;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <h3>About US</h3>
+            <h4>開發人員:</h4>
+            <h4>師大科技116 李佳璇、盧姵帆</h4>
+            <h4 onclick="window.open('https://github.com/PhoebeLu1011/1132CODEfinalproject', '_blank')">GitHub</h4>
+
+            <button class="button back-button" onclick="history.back()">BACK</button>
+        </div>
+    </body>
+

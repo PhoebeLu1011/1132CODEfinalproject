@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Starting Page - Life Explosion</title>
+        <style>
+            body{
+                background-color: #F5F5F5;
+                font-family: 'Rubik Marker Hatch', sans-serif;
+                margin: 0;
+                padding: 20px;
+                height: 100vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+
+            h2{
+                font-size: 28px;
+                font-weight: bold;
+                margin-bottom: 10px;
+                text-shadow: 1px 1px 2px #888888;
+            }
+
+            h3{
+                font-size: 20px;
+                font-weight: normal;
+                margin-bottom: 30px;
+                color: #333333;
+            }
+
+            .button {
+                display: block;
+                width: 300px;
+                padding: 15px;
+                font-size: 18px;
+                font-weight: bold;
+                border: none;
+                border-radius: 30px;
+                cursor:pointer;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+                margin: 15px 0;
+                transition: 0.3s;
+            }
+            .start-button{
+                background-color: #4E4E4E;
+                color: #FFFFFF;
+            }
+
+            .guide-button{
+                background-color: #7A7A7A;
+                color: #F5F5F5;
+            }
+
+            .setting-button{
+                background-color: #B0B0B0;
+                color: #2E2E2E;
+            }
+            /*hover 浮動效果*/
+            .button:hover{
+                transform: scale(1.08);
+                opacity: 0.9;
+            }
+
+            
+        </style>
+    </head>
+
+    <body>
+        <h2>Life Explosion Simulator:Final Exam Hell Edition</h2>
+        <h3>人生爆炸模擬器：大學期末地獄篇</h3>
+        <button class="button start-button" onclick="location.href='/start_game'">START</button>
+        <button class="button guide-button" onclick="location.href='/surguide'">Finals Survival Guide</button>
+        <button class="button setting-button" onclick="location.href='/setting'">Setting</button>
+    </body>
+</html>

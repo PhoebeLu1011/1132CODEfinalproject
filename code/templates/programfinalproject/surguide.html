@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Finals Survival Guide</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #ffffff;
+      padding: 40px 60px;
+    }
+
+    .main-title {
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .sub-title {
+      font-size: 14px;
+      margin-bottom: 30px;
+    }
+
+    .guide-button {
+      background-color: #aaa;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 25px;
+      padding: 10px 30px;
+      font-size: 16px;
+      margin: 10px 0 30px;
+      display: inline-block;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0; /* 可選，移除縮排 */
+    }
+    li {
+      list-style: none;
+    } 
+
+
+
+    .guide-title {
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .description {
+      font-size: 14px;
+      max-width: 720px;
+      margin-bottom: 20px;
+      line-height: 1.6;
+      font-weight: bold;
+    }
+
+    .dropdown-container {
+      width: 100%;
+      max-width: 720px;
+      margin: 0 0 30px;
+    }
+
+    select {
+      width: 100%;
+      padding: 12px;
+      font-size: 14px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+
+    .button-container {
+      margin-top: 40px;
+    }
+
+    .nav-button {
+      font-weight: bold;
+      background-color: #444;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      padding: 10px 40px;
+      font-size: 16px;
+      margin: 0 40px;
+      cursor: pointer;
+    }
+
+    .nav-button:hover {
+      background-color: #555;
+    }
+    /* 狀態條基底 */
+    .progress-bar {
+        width: 100%;
+        height: 16px;
+        background-color: #e0e0e0;
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+        margin-bottom: 10px;
+    }
+
+    /* 內部填色條 */
+    .bar-fill {
+        height: 100%;
+        border-radius: 10px;
+        transition: width 0.4s ease-in-out;
+    }
+
+    /* 各狀態顏色（可自由調整） */
+    .hw {
+        background-color: #f26c6d; /* 作業：紅 */
+    }
+
+    .energy {
+        background-color: #77dd77; /* 精力：綠 */
+    }
+
+    .health {
+        background-color: #6ca0dc; /* 健康：藍 */
+    }
+
+    /* 百分比文字（可選） */
+    .status-percent {
+        position: absolute;
+        right: 8px;
+        top: 0;
+        font-size: 12px;
+        color: #333;
+        line-height: 16px;
+    }
+
+    
+  </style>
+</head>
+<body>
+
+  <div class="main-title">Life Explosion Simulator: Final Exam Hell Edition</div>
+  <div class="sub-title">人生爆炸模擬器：大學期末地獄篇</div>
+
+  <div class="guide-button">Finals Survival Guide</div>
+  <div class="description">
+    你現在的學期已經進入期末要爆炸的階段。手邊還有超多報告、考試還沒寫完，但deadline全部擠在一起，請依照以下狀況，努力活下來!!!!!
+  </div>
+
+  <div class="dropdown-container">
+  <details open>
+    <summary>遊戲目標</summary>
+    <p>撐過期末地獄，不可以在期末讓你爆炸，要順利交齊所有報告，考好所有考試，期末歐趴!!!!!</p>
+  </details>
+
+  <details>
+    <summary>狀態數值</summary>
+    <div class="progress-container">
+      <div class="bar-label">作業完成度</div>
+      <div class="progress-bar"><div class="bar-fill hw"></div></div>
+
+      <div class="bar-label">精力值</div>
+      <div class="progress-bar"><div class="bar-fill energy"></div></div>
+
+      <div class="bar-label">健康值</div>
+      <div class="progress-bar"><div class="bar-fill health"></div></div>
+    </div>
+  </details>
+
+  <details>
+    <summary>遊戲玩法說明與提示</summary>
+    <div class="hint">
+      <ul>
+        <li> 當作業完成度達到 100% → 拯救期末成功，恭喜 All Pass !!!!!</li>
+        <li> 被車撞 → 送醫院</li>
+        <li> 經歷值為0→ 精力耗盡</li>
+        <li> 健康值為 0 → 病倒了</li>
+      </ul>
+    </div>
+  </details>
+
+  <details>
+    <summary>各項道具觸發增減數值提示</summary>
+    <div class="hint">
+      <ul>
+        <li>書、報告：作業完成度+10、精力值-20</li>
+        <li>枕頭(睡覺):健康值+10、精力值+5</li>
+        <li>⚠️睡太多覺可能會讓你的書讀不完、報告來不及做，導致作業完成度-10</li>
+        
+        
+        <li>啤酒杯(喝酒)：健康值-15、精力值+10</li>
+        <li>⚠️喝太多酒會可能會可能會導致身體爛掉(健康值-10、作業完成度-10)</li>
+        
+        <li>雞腿(食物)：健康值+5、精力值+5</li>
+        <li>如果在路上巧遇教授，可能會有一些驚喜發生!</li>
+
+      </ul>
+    </div>
+  </details>
+
+  <div class="button-container">
+    <button class="nav-button" onclick="history.back()">BACK</button>
+  </div>
+
+  <script>
+    // 可呼叫此函數來更新進度條寬度
+    function updateStatusBar(className, percent) {
+      const bar = document.querySelector(`.${className}`);
+      if (bar) bar.style.width = percent + '%';
+    }
+  </script>
+
+</body>
+</html>
