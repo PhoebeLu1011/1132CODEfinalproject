@@ -36,7 +36,7 @@
 | 成功(逃脫期末地獄) | 失敗 |
 |--------|------|
 | <img src="images/成功1.png" width="300"/> | <img src="images/失敗1.jpg" width="300"/> |
-| <img src="images/成功最終畫面.png" width="300"/> | <img src="images/失敗最終畫面.png" width="300"/> |
+| <img src="images/成功最後畫面.png" width="300"/> | <img src="images/失敗最後畫面.png" width="300"/> |
 
 ## 使用程式
 * PYTHON
