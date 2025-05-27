@@ -15,10 +15,14 @@
 
 ## 遊戲示意圖  
 * 主介面
-<img src="images/主介面.png" width="500"/>
+<img src="images/遊戲畫面.png" width="500"/>
 
 * 觸碰教授圖像，觸發情節圖
-<img src="images/回覆教授.png" width="500"/>
+<img src="images/教授畫面.png" width="500"/>
+* 觸碰五次睡覺圖像，觸發情節圖
+<img src="code/images/teachertheme/ttheme_sleep.png" width="500"/>
+* 觸碰五次喝酒圖像，觸發情節圖
+<img src="code/images/teachertheme/ttheme_drink.png" width="500"/>
 * 讀書進度達100，成功逃離期末地獄
 <img src="code/images/ending/ending_study100.png" width="500"/>  
 * 精力值為0，進入頹廢結局
