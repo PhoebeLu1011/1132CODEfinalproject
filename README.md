@@ -7,6 +7,7 @@
 
 ## 第一次審查連結 : https://youtu.be/SExgqFcxvvw
 ## 第二次進度追蹤 : https://youtu.be/0_wMfQdEzZ0
+## 期末成果展現 : https://youtu.be/NxngJNmAdQs
 ## 若程式跑不動  
 請手動新增一個.env檔，裡面寫GEMINI_API_KEY=你的google api key  
 並且在cmd(命令提示字元)輸入  
