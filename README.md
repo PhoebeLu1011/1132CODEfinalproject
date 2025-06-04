@@ -9,6 +9,9 @@
 ### First Review Video : https://youtu.be/SExgqFcxvvw
 ### Second Progress Video : https://youtu.be/0_wMfQdEzZ0
 ### Final Presentation Video : https://youtu.be/NxngJNmAdQs
+
+## Table of Contents
+
 ## 程式碼: 
 [完整程式碼](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
 * 若程式跑不動  
@@ -22,7 +25,7 @@ pip install pygame
 ## File Structure
 
 code/
-├── images/
+├── images/ \
 ├── templates/
 │   └── programfinalproject/
 │       ├── aboutus.html
