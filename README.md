@@ -12,17 +12,18 @@
 
 ## Table of Contents
 
-## 程式碼: 
-[完整程式碼](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
-* 若程式跑不動  
-請手動新增一個.env檔，裡面寫GEMINI_API_KEY=你的google api key  
-並且在cmd(命令提示字元)輸入  
+## Source Code:: 
+[Complete Source Code](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
+* If the program doesn't run:
+Manually create a `.env` file and add the following line inside:
+`GEMINI_API_KEY=your_google_api_key`
+Then, in the command line (cmd), run:
 pip install flask  
 pip install google-generativeai  
 pip install python-dotenv  
 pip install pygame
 
-## File Structure
+### File Structure
 code/\
 ├── images/ \
 ├── templates/ \
