@@ -53,7 +53,7 @@ code/\
 
 ### Main Interface 
 
-| <img src="images/遊戲畫面.png" width="500"/> |
+<img src="images/遊戲畫面.png" width="400"/> 
 
 ---
 
