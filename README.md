@@ -12,12 +12,12 @@
 
 ## Table of Contents
 
-## Source Code:: 
-[Complete Source Code](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
-* If the program doesn't run:
-Manually create a `.env` file and add the following line inside:
-`GEMINI_API_KEY=your_google_api_key`
-Then, in the command line (cmd), run:
+## Source Code:
+### [Complete Source Code](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
+* If the program doesn't run:\
+Manually create a `.env` file and add the following line inside:\
+`GEMINI_API_KEY=your_google_api_key`\
+Then, in the command line (cmd), run: \
 pip install flask  
 pip install google-generativeai  
 pip install python-dotenv  
