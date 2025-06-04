@@ -9,7 +9,7 @@
 ## 第二次進度追蹤 : https://youtu.be/0_wMfQdEzZ0
 ## 期末成果展現 : https://youtu.be/NxngJNmAdQs
 ## 程式碼: 
-<a href="https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code">
+[完整程式碼](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
 
 ## 若程式跑不動  
 請手動新增一個.env檔，裡面寫GEMINI_API_KEY=你的google api key  
