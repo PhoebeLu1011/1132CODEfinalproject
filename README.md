@@ -120,6 +120,13 @@ flowchart LR
 | <img src="images/成功最後畫面.png" width="400"/> | <img src="images/失敗最後畫面.png" width="400"/> |
 
 
+## Item Introduction
+### Attribute Overview
+- Course Completion: [■■■■■■■■□□□] 90%
+- Health: [■■■■■■■■□□□] 90%
+- Energy: [■■■■■■■■□□□] 90%
+
+
 
 
 ## 動機 
