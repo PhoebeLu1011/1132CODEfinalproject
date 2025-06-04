@@ -82,7 +82,7 @@ flowchart LR
     J --> L[Player Jumps]
     L --> M[When player hits an obstacle]
     M --> N[Trigger stat change or event]
-    N --> O[End Screen<br>`finaltheend.html`]
+    N --> O[End Screen<br>finaltheend.html]
 ```
 
 ## Gameplay Demonstration
