@@ -71,15 +71,15 @@ code/\
 |:--:|:--:|
 | <img src="code/images/ending/ending_energy0.png" width="400"/> | <img src="code/images/ending/ending_health0.png" width="400"/> |
 
-| Hit by a Car (Accident Ending) <br>撞到車，進入車禍結局| |
+| Hit by a Car (Accident Ending) <br>撞到車，進入車禍結局| 
 |:--:|:--:|
-| <img src="code/images/ending/ending_car.png" width="400"/> | |
+| <img src="code/images/ending/ending_car.png" width="400"/> | 
 
 ---
 
 ## End Screens
 
-| Success (Escape Finals Hell) | Failure |
+| Success (Escape Finals Hell) <br> 成功(逃脫期末地獄)| Failure <br>失敗|
 |:--:|:--:|
 | <img src="images/成功最後畫面.png" width="400"/> | <img src="images/失敗最後畫面.png" width="400"/> |
 
@@ -91,30 +91,6 @@ code/\
 ## 目標
 本專題希望遊戲模擬去呈現學生在期末地獄中掙扎的情境，讓使用者放鬆，並達到娛樂效果。
 
-## 遊戲示意圖  
-* 主介面
-<img src="images/遊戲畫面.png" width="500"/>
-
-* 觸碰教授圖像，觸發情節圖
-<img src="images/教授畫面.png" width="500"/>
-* 觸碰五次睡覺圖像，觸發情節圖
-<img src="code/images/teachertheme/ttheme_sleep.png" width="500"/>
-* 觸碰五次喝酒圖像，觸發情節圖
-<img src="code/images/teachertheme/ttheme_drink.png" width="500"/>
-* 讀書進度達100，成功逃離期末地獄
-<img src="code/images/ending/ending_study100.png" width="500"/>  
-* 精力值為0，進入頹廢結局
-<img src="code/images/ending/ending_energy0.png" width="500"/>  
-* 健康值為0，進入送醫結局
-<img src="code/images/ending/ending_health0.png" width="500"/>  
-* 撞到車，進入車禍結局
-<img src="code/images/ending/ending_car.png" width="500"/>  
-
-* 遊戲結束畫面
-
-| 成功(逃脫期末地獄) | 失敗 |
-|--------|--------|
-| <img src="images/成功最後畫面.png" width="400"/> | <img src="images/失敗最後畫面.png" width="400"/> |
 
 ## 使用程式
 * PYTHON
