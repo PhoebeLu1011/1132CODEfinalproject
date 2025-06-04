@@ -14,7 +14,7 @@
 
 ## Source Code:
 ### [Complete Source Code](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
-* If the program doesn't run:\
+If the program doesn't run:\
 Manually create a `.env` file and add the following line inside:\
 `GEMINI_API_KEY=your_google_api_key`\
 Then, in the command line (cmd), run: \
