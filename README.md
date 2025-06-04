@@ -122,9 +122,9 @@ flowchart LR
 
 ## Item Introduction
 ### Attribute Overview
-- Course Completion: [■■■■■■■■□□□] 90%
-- Health: [■■■■■■■■□□□] 90%
-- Energy: [■■■■■■■■□□□] 90%
+- Course Completion: [█████████░░] 90%
+- Health: [█████████░░] 90%
+- Energy: [█████████░░] 90%
 
 
 
