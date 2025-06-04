@@ -49,6 +49,43 @@ code/\
 ├── result.json\
 ├── test_result.py
 
+## Gameplay Screenshots
+
+| Main Interface |
+|:--:|
+| <img src="images/遊戲畫面.png" width="500"/> |
+
+---
+
+## Event Scenes
+
+| Touching the Professor | Touching Sleep Icon 5 Times |
+|:--:|:--:|
+| <img src="images/教授畫面.png" width="400"/> | <img src="code/images/teachertheme/ttheme_sleep.png" width="400"/> |
+
+| Touching Drink Icon 5 Times | Study Progress 100 (Escape Finals Hell) |
+|:--:|:--:|
+| <img src="code/images/teachertheme/ttheme_drink.png" width="400"/> | <img src="code/images/ending/ending_study100.png" width="400"/> |
+
+| Energy Drops to 0 (Burnout Ending) | Health Drops to 0 (Hospitalized Ending) |
+|:--:|:--:|
+| <img src="code/images/ending/ending_energy0.png" width="400"/> | <img src="code/images/ending/ending_health0.png" width="400"/> |
+
+| Hit by a Car (Accident Ending) | |
+|:--:|:--:|
+| <img src="code/images/ending/ending_car.png" width="400"/> | |
+
+---
+
+## End Screens
+
+| Success (Escape Finals Hell) | Failure |
+|:--:|:--:|
+| <img src="images/成功最後畫面.png" width="400"/> | <img src="images/失敗最後畫面.png" width="400"/> |
+
+
+
+
 ## 動機 
 身為大學生的我們，每學期在期末時，必經歷大量作業、考試與專題的壓力，導致爆肝、熬夜與情緒崩潰等現象頻繁發生，俗稱 「期末地獄」。
 ## 目標
