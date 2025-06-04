@@ -49,15 +49,15 @@ code/\
 ├── result.json\
 ├── test_result.py
 
-## Gameplay Screenshots
+## Gameplay Demonstration
 
-| Main Interface |
-|:--:|
+### Main Interface 
+
 | <img src="images/遊戲畫面.png" width="500"/> |
 
 ---
 
-## Event Scenes
+### Event Scenes
 
 | Touching the Professor | Touching Sleep Icon 5 Times |
 |:--:|:--:|
