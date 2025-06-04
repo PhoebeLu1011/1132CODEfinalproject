@@ -1,6 +1,6 @@
 # 113-2 Programming Language Final Project 
 # Life Explosion Simulator: Final Exam Hell Edition
-### A fun and stress-relieving game that simulates the chaotic struggles of university students during finals week.
+#### A fun and stress-relieving game that simulates the chaotic struggles of university students during finals week.
 ## Team Members
 - <a href="https://github.com/PhoebeLu1011"><img src="https://github.com/PhoebeLu1011.png" width="20"/> @PhoebeLu1011</a>
 - <a href="https://github.com/kurakanja"><img src="https://github.com/kurakanja.png" width="20"/> @kurakanja</a>
