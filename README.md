@@ -20,11 +20,12 @@ Manually create a `.env` file and add the following line inside:\
 GEMINI_API_KEY=your_google_api_key
 ```
 Then, in the command line (cmd), run: \
+```python
 pip install flask  
 pip install google-generativeai  
 pip install python-dotenv  
 pip install pygame
-
+```
 ### File Structure
 code/\
 ├── images/ \
