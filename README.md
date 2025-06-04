@@ -1,13 +1,14 @@
 # 113-2 Programming Language Final Project 
 # Life Explosion Simulator: Final Exam Hell Edition
 
-## 組員:
+## Team Members
 - <a href="https://github.com/PhoebeLu1011"><img src="https://github.com/PhoebeLu1011.png" width="20"/> @PhoebeLu1011</a>
 - <a href="https://github.com/kurakanja"><img src="https://github.com/kurakanja.png" width="20"/> @kurakanja</a>
 
-## 第一次審查連結 : https://youtu.be/SExgqFcxvvw
-## 第二次進度追蹤 : https://youtu.be/0_wMfQdEzZ0
-## 期末成果展現 : https://youtu.be/NxngJNmAdQs
+## Project Presentation Links
+### First Review Video : https://youtu.be/SExgqFcxvvw
+### Second Progress Video : https://youtu.be/0_wMfQdEzZ0
+### Final Presentation Video : https://youtu.be/NxngJNmAdQs
 ## 程式碼: 
 [完整程式碼](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
 * 若程式跑不動  
@@ -16,7 +17,34 @@
 pip install flask  
 pip install google-generativeai  
 pip install python-dotenv  
-pip install pygame   
+pip install pygame
+
+## File Structure
+
+code/
+├── images/
+├── templates/
+│   └── programfinalproject/
+│       ├── aboutus.html
+│       ├── designd.html
+│       ├── finaltheend.html
+│       ├── privacypolicy.html
+│       ├── settingmenu.html
+│       ├── start.html
+│       ├── surguide.html
+├── character.py
+├── constants.py
+├── events.py
+├── game.py
+├── log.txt
+├── main.py
+├── obstacles.py
+├── player.py
+├── pro_ai_module.py
+├── proapp.py
+├── result.json
+├── test_result.py
+
 ## 動機 
 身為大學生的我們，每學期在期末時，必經歷大量作業、考試與專題的壓力，導致爆肝、熬夜與情緒崩潰等現象頻繁發生，俗稱 「期末地獄」。
 ## 目標
