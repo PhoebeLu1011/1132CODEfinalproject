@@ -72,7 +72,7 @@ code/\
 | <img src="code/images/ending/ending_energy0.png" width="400"/> | <img src="code/images/ending/ending_health0.png" width="400"/> |
 
 | Hit by a Car (Accident Ending) <br>撞到車，進入車禍結局| 
-|:--:|:--:|
+|:--:|
 | <img src="code/images/ending/ending_car.png" width="400"/> | 
 
 ---
