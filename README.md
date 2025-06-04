@@ -10,8 +10,6 @@
 ### Second Progress Video : https://youtu.be/0_wMfQdEzZ0
 ### Final Presentation Video : https://youtu.be/NxngJNmAdQs
 
-## Table of Contents
-
 ## Source Code:
 ### [Complete Source Code](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
 If the program doesn't run:
