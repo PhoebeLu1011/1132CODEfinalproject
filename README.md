@@ -66,14 +66,16 @@ code/\
 
 ## Flowchart
 ```mermaid
-flowchart TD
+flowchart LR
     A[Start Screen] --> B[Main Menu]
     B --> C[Game Instructions]
     C --> D[Window 1]
     D --> E[Gameplay Description]
-    B --> F[About Us]
+    B --> F[Setting]
     F --> G[Window 2]
-    G --> H[About the Creators]
+    G --> H[About Us]
+    G --> H[Privacy Policy]
+    G --> H[Desgin Details]
     B --> I[Start]
     I --> J[Scene 1]
     J --> K[Obstacles Appear]
