@@ -10,8 +10,7 @@
 ## 期末成果展現 : https://youtu.be/NxngJNmAdQs
 ## 程式碼: 
 [完整程式碼](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
-
-## 若程式跑不動  
+* 若程式跑不動  
 請手動新增一個.env檔，裡面寫GEMINI_API_KEY=你的google api key  
 並且在cmd(命令提示字元)輸入  
 pip install flask  
