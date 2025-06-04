@@ -59,19 +59,19 @@ code/\
 
 ### Event Scenes
 
-| Touching the Professor | Touching Sleep Icon 5 Times |
+| Touching the Professor<br>觸碰教授圖像觸發的情節 | Touching Sleep Icon 5 Times<br>觸碰五次睡覺圖像觸發的情節 |
 |:--:|:--:|
 | <img src="images/教授畫面.png" width="400"/> | <img src="code/images/teachertheme/ttheme_sleep.png" width="400"/> |
 
-| Touching Drink Icon 5 Times | Study Progress 100 (Escape Finals Hell) |
+| Touching Drink Icon 5 Times<br>觸碰五次喝酒圖像觸發的情節 | Study Progress 100 (Escape Finals Hell) <br>讀書進度達100，成功逃離期末地獄 |
 |:--:|:--:|
 | <img src="code/images/teachertheme/ttheme_drink.png" width="400"/> | <img src="code/images/ending/ending_study100.png" width="400"/> |
 
-| Energy Drops to 0 (Burnout Ending) | Health Drops to 0 (Hospitalized Ending) |
+| Energy Drops to 0 (Burnout Ending)<br>精力值為0，進入頹廢結局 | Health Drops to 0 (Hospitalized Ending)<br>健康值為0，進入送醫結局 |
 |:--:|:--:|
 | <img src="code/images/ending/ending_energy0.png" width="400"/> | <img src="code/images/ending/ending_health0.png" width="400"/> |
 
-| Hit by a Car (Accident Ending) | |
+| Hit by a Car (Accident Ending) <br>撞到車，進入車禍結局| |
 |:--:|:--:|
 | <img src="code/images/ending/ending_car.png" width="400"/> | |
 
