@@ -64,6 +64,25 @@ code/\
 ├── result.json\
 ├── test_result.py
 
+## Flowchart
+```mermaid
+flowchart TD
+    A[Start Screen] --> B[Main Menu]
+    B --> C[Game Instructions]
+    C --> D[Window 1]
+    D --> E[Gameplay Description]
+    B --> F[About Us]
+    F --> G[Window 2]
+    G --> H[About the Creators]
+    B --> I[Start]
+    I --> J[Scene 1]
+    J --> K[Obstacles Appear]
+    J --> L[Player Jumps]
+    L --> M[When player hits an obstacle]
+    M --> N[Trigger stat change or event]
+    N --> O[End Screen]
+```
+
 ## Gameplay Demonstration
 
 ### Main Interface 
