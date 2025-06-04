@@ -10,6 +10,21 @@
 ### Second Progress Video : https://youtu.be/0_wMfQdEzZ0
 ### Final Presentation Video : https://youtu.be/NxngJNmAdQs
 
+## Motivation
+
+As university students, we experience tremendous pressure at the end of each semester, facing a heavy load of assignments, exams, and project deadlines. This often leads to overwork, sleep deprivation, and emotional breakdowns — a phenomenon commonly known as "Finals Hell."
+
+## Objective
+
+This project aims to simulate the struggles students face during Finals Hell through a game, providing users with a way to relax and enjoy some entertainment.
+
+## Technologies Used
+
+- Python
+- Pygame
+- Homework 2 — Data Visualization
+
+
 ## Source Code:
 ### [Complete Source Code](https://github.com/PhoebeLu1011/1132CODEfinalproject/tree/main/code)
 If the program doesn't run:
