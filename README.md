@@ -23,29 +23,28 @@ pip install python-dotenv
 pip install pygame
 
 ## File Structure
-
-code/
+code/\
 ├── images/ \
-├── templates/
-│   └── programfinalproject/
-│       ├── aboutus.html
-│       ├── designd.html
-│       ├── finaltheend.html
-│       ├── privacypolicy.html
-│       ├── settingmenu.html
-│       ├── start.html
-│       ├── surguide.html
-├── character.py
-├── constants.py
-├── events.py
-├── game.py
-├── log.txt
-├── main.py
-├── obstacles.py
-├── player.py
-├── pro_ai_module.py
-├── proapp.py
-├── result.json
+├── templates/ \
+│   └── programfinalproject/ \
+│       ├── aboutus.html\
+│       ├── designd.html\
+│       ├── finaltheend.html\
+│       ├── privacypolicy.html\
+│       ├── settingmenu.html\
+│       ├── start.html\
+│       ├── surguide.html\
+├── character.py\
+├── constants.py\
+├── events.py\
+├── game.py\
+├── log.txt\
+├── main.py\
+├── obstacles.py\
+├── player.py\
+├── pro_ai_module.py\
+├── proapp.py\
+├── result.json\
 ├── test_result.py
 
 ## 動機 
