@@ -122,11 +122,19 @@ flowchart LR
 
 ## Item Introduction
 ### Attribute Overview
-- Course Completion(課業完成度): [█████████░░] 90%
+- Academic Progress(課業完成度): [█████████░░] 90%
 - Health(健康值): [█████████░░] 90%
 - Energy(精力值): [█████████░░] 90%
 
-
+### Item Overview
+| Item Image | Item Name | Description |
+|------------|-----------|-------------|
+| <img src="images/讀書.png" width="100"/> | Book<br>書 | Academic Progress +10, Energy -20<br>課業完成度+10、 精力值-20|
+| <img src="images/寫報告.png" width="100"/> | Report<br>報告 | Academic Progress +10, Energy +5 <br>課業完成度+10、精力值+5|
+| <img src="images/食物.png" width="100"/> |  Food (Chicken Drumstick)<br>食物(雞腿) |Health +5, Energy +5<br>健康值+5、精力值+5|
+| <img src="images/睡覺.png" width="100"/> | Sleep (Pillow)<br>睡覺(枕頭) |健康值+10、精力值+5<br>注意:接觸5次睡覺時會觸發特殊事件(在圖書館睡著)，導致讀書進度-10|
+| <img src="images/喝酒.png" width="100"/> | Drinking (Beer Mug)<br>喝酒(啤酒杯) |健康值-15、精力值+10<br>注意:接觸5次喝酒時會觸發特殊事件(參加酒局，隔天宿醉)，導致健康值-10、課業完成度-10|
+| <img src="images/教授.png" width="100"/> | Professor<br>教授 | **Rare!** Depending on four random events, Energy or Academic Progress will vary(-10~+10):<br>以下為四種不同的事件:<br>1."太好了同學，剛好你來幫我整理這些文件吧!"(被迫幫忙教授):精力值-10<br>2. “同學有哪裡不懂嗎"(和教授討論中):課業完成度+10<br>3."同學你的報告寫得非常好!"(被誇獎了好開心):精力值+5<br>4."同學你來幫忙紀錄一下這場會議好嗎，還有明天順便幫我聯絡，禮拜五的時候也......"(事情突然好多......):精力值-10、課業完成度-10|
 
 
 ## 動機 
