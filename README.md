@@ -129,7 +129,7 @@ flowchart LR
 ### Item Overview
 | Item Image | Item Name | Description |
 |------------|-----------|-------------|
-| <img src="images/讀書.png" width="100"/> | Book<br>書 | Academic Progress +10, Energy -20<br>課業完成度+10、 精力值-20|
+| <img src="images/讀書.png" width="100"/> | Book<br>書 | Academic Progress(課業完成度) +10, Energy(精力值) -20|
 | <img src="images/寫報告.png" width="100"/> | Report<br>報告 | Academic Progress +10, Energy +5 <br>課業完成度+10、精力值+5|
 | <img src="images/食物.png" width="100"/> |  Food (Chicken Drumstick)<br>食物(雞腿) |Health +5, Energy +5<br>健康值+5、精力值+5|
 | <img src="images/睡覺.png" width="100"/> | Sleep (Pillow)<br>睡覺(枕頭) |健康值+10、精力值+5<br>注意:接觸5次睡覺時會觸發特殊事件(在圖書館睡著)，導致讀書進度-10|
